@@ -9,7 +9,7 @@
 
 ## Features
 
-- Substitui as sílabas A,E,I,O,U
+- Substitui as vogais A,E,I,O,U
 - Substitui as consoantes D,N,M,R,S
 
 ## Implementação
